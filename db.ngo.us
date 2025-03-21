@@ -94,4 +94,9 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; Begunn Chat Area
+; Submitted by Admin team <nyanalvin12@gmail.com>
+bcawallet 86400 IN NS ns1.thsite.top.
+bcawallet 86400 IN NS ns2.thsite.top.
+
 ; ========== END ORGANIZATIONS ================
