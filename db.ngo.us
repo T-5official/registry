@@ -41,6 +41,11 @@ aihe 86400 IN NS ignacio.ns.cloudflare.com.
 xera 86400 IN NS dave.ns.cloudflare.com.
 xera 86400 IN NS irena.ns.cloudflare.com.
 
+; Begunn Chat Area
+; Submitted by Admin team <nyanalvin12@gmail.com>
+bcawallet 86400 IN NS ns1.thsite.top.
+bcawallet 86400 IN NS ns2.thsite.top.
+
 ; Freefall Softworks Archival Organization (FSARO)
 ; Submitted by the FSARO development team <fsaro@proton.me>
 fsaro 86400 IN NS drake.ns.cloudflare.com.
@@ -93,10 +98,5 @@ schoolphobia	86400	IN	NS	achiel.ns.cloudflare.com.
 schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
-
-; Begunn Chat Area
-; Submitted by Admin team <nyanalvin12@gmail.com>
-bcawallet 86400 IN NS ns1.thsite.top.
-bcawallet 86400 IN NS ns2.thsite.top.
 
 ; ========== END ORGANIZATIONS ================
